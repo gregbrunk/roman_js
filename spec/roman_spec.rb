@@ -18,7 +18,6 @@ describe 'romanize' do
     expect(romanize(4)).to eq 'IV' 
   end
 
-
   it "converts 5" do
     expect(romanize(5)).to eq 'V' 
   end
